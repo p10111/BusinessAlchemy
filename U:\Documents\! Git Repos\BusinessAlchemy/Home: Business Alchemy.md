@@ -8,8 +8,9 @@ The fact is that failure is much more likely than success.
 This is true at almost any phase of a project but many times more so for new starts.
 
 ## 7 Elements of Success
-Successful 
+Successful startups or product launches have elements in common; a dedicated and expert team, focus on what's actually important, hard and consistently delivered work, and faith are often seen among them. 
+What we rarely talk about
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODI1Nzc2Nl19
+eyJoaXN0b3J5IjpbMTUyMTQzNjM0M119
 -->
