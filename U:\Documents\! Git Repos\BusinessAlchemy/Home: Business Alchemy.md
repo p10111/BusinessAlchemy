@@ -18,10 +18,10 @@ Again, is success really was a matter of doing the right stuff, simply a series 
 Success would be common.
 
 ## Succeeding: "Failure to Fail"
-
+In business, harm can come from any direction and often comes from unexpected ones. Many of these harms can be fatal for the project. Identifying as many risk factors as possible
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEwNjk2MTg5XX0=
+eyJoaXN0b3J5IjpbLTU5ODc4Njk0MF19
 -->
