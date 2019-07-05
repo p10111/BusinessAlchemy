@@ -20,10 +20,11 @@ Success would be common.
 ## Succeeding: "Failure to Fail"
 In business, harm can come from any direction and often comes from unexpected ones. 
 Many of these harms can be fatal for the project. Identifying as many risk factors as possible and planning reduction & mitigation steps is probably the only "secret" we can really claim. 
-Good project managers do exactly that. The problem is that most risks can't be quantified or handled usefully on a spreadsheet.
+Good project managers do exactly that. 
+The problem is that most risks can't be quantified or handled usefully on a spreadsheet.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODM2NjkxNjhdfQ==
+eyJoaXN0b3J5IjpbLTIwOTc4NTMxODZdfQ==
 -->
