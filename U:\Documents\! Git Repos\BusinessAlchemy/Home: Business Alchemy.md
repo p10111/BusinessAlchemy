@@ -18,10 +18,12 @@ Again, is success really was a matter of doing the right stuff, simply a series 
 Success would be common.
 
 ## Succeeding: "Failure to Fail"
-In business, harm can come from any direction and often comes from unexpected ones. Many of these harms can be fatal for the project. Identifying as many risk factors as possible and planning reduction & mitigation steps is probably the only "secret" we can really claim. Good project manmajers do exactly that. The problem is that most ri
+In business, harm can come from any direction and often comes from unexpected ones. 
+Many of these harms can be fatal for the project. Identifying as many risk factors as possible and planning reduction & mitigation steps is probably the only "secret" we can really claim. 
+Good project managers do exactly that. The problem is that most risks can't be quantified or handled usefully on a spreadsheet.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYzMjQzNzc3XX0=
+eyJoaXN0b3J5IjpbLTEwODM2NjkxNjhdfQ==
 -->
