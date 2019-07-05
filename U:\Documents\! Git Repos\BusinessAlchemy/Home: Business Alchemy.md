@@ -11,9 +11,10 @@ This is true at almost any phase of a project but many times more so for new sta
 Successful startups or product launches have elements in common; a dedicated and expert team, focus on what's actually important, hard and consistently delivered work, and faith are often seen among them. 
 What we rarely talk about is that luck, plain old dumb fucking luck is the most important.
 True, that sucks. 
-You can help increase your chances of luck but there are no best practices, no losts of "7 secrets", and no expertise you can rely on.
-Sometim4s the best pro
+You can help increase your chances of luck but there are no best practices, no lists of "7 secrets", and no expertise you can rely on.
+Sometimes the best project fails because a message got lost and a crap one wins because of a chance meeting on the street.
+As realestate professional say when asked about the key factors that in pricing a p
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTk1MTA2MDVdfQ==
+eyJoaXN0b3J5IjpbMjg0MDE1NzQ2XX0=
 -->
