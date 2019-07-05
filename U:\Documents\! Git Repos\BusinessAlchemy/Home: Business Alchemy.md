@@ -22,9 +22,10 @@ In business, harm can come from any direction and often comes from unexpected on
 Many of these harms can be fatal for the project. Identifying as many risk factors as possible and planning reduction & mitigation steps is probably the only "secret" we can really claim. 
 Good project managers do exactly that. 
 The problem is that most risks can't be quantified or handled usefully on a spreadsheet.
+For those we need "an art" rather than an analytical approach.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTc4NTMxODZdfQ==
+eyJoaXN0b3J5IjpbLTE2MjQ4MTU5ODhdfQ==
 -->
