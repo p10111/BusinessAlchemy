@@ -9,8 +9,11 @@ This is true at almost any phase of a project but many times more so for new sta
 
 ## 7 Elements of Success
 Successful startups or product launches have elements in common; a dedicated and expert team, focus on what's actually important, hard and consistently delivered work, and faith are often seen among them. 
-What we rarely talk about
+What we rarely talk about is that luck, plain old dumb fucking luck is the most important.
+True, that sucks. 
+You can help increase your chances of luck but there are no best practices, no losts of "7 secrets", and no expertise you can rely on.
+Sometim4s the best pro
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTQzNjM0M119
+eyJoaXN0b3J5IjpbLTE5MTk1MTA2MDVdfQ==
 -->
