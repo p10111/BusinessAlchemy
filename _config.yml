@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 name: Business Alchemy
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
